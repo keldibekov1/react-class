@@ -1,5 +1,5 @@
 import React from "react";
-import Player from "./player";
+import Player from "./Player";
 
 const Players = ({ players, deletePlayer }) => (
   <div className="max-w-4xl mx-auto mt-10">
